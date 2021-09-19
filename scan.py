@@ -1,4 +1,3 @@
-#KALIMULLAH001
 
 import LIST
 from LIST.id import *
@@ -33,8 +32,8 @@ def main():
     print("{}  |P   \\\__//    | ").format(w)
     print("  |CS   '--'     | ")
     print("{}  '--------------'----------{}------------------.  ").format(r,w)
-    print("{}  |                                          | ").format(r,w,r,w,r,ir,reset,w)
-    print("{}  |{}Kalimullah001 2701 {}| {}+93786858379 {}|").format(r,w,w,w,lgray,w)
+    print("{}  | {}Author  : {}HVmbl3 {}            | {}INDO{}N{}{}ESIA         | ").format(r,w,r,w,r,ir,reset,w)
+    print("{}  | {}Name    : {}kalimullah001 2701 {}| {}+93-786-858-379   {}|").format(r,w,w,w,lgray,w)
     print("{}  '------------------------------------{}-------'  ").format(r,w)
     print ("  {}[ 1 ] {}Italy").format(r,w)
     print ("  {}[ 2 ] {}Indonesia").format(r,w)
