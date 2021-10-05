@@ -1,19 +1,9 @@
-# clear
 
-# apt update
-
-# apt upgrade
-
-# pkg install git
-
-# pkg install python2
-
-# pkg install pip2
-
-# git clone https://github.com/Kalimullah001/ipcs
-
-# pip2 install requests
-
-# cd ipcs
-
-# python2 scan.py
+# Cam-Hackers
+# apt-get install python3
+# apt-get install git
+# pip3 install requests
+# pip3 install colorama
+# git clone https://github.com/Kalimullah001/Cam-Hackers
+# cd Cam-Hackers
+# python3 cam-Hackers.py
