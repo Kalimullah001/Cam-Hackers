@@ -1,26 +1,19 @@
 #!/usr/bin/env python3
 #-*- coding: utf-8 -*-
-#github.com/Aryanjan002/Cam-Hackers
+#github.com/Kalimullah001/Cam-Hackers
 
 import requests, re , colorama
 colorama.init()
 print("""
 \033[1;31m\033[1;37m 
-________
-< Hacker >
- --------
-    \
-     \
-                                   .::!!!!!!!:.
-  .!!!!!:.                        .:!!!!!!!!!!!!
-  ~~~~!!!!!!.                 .:!!!!!!!!!UWWW$$$
-      :$$NWX!!:           .:!!!!!!XUWW$$$$$$$$$P
-      $$$$$##WX!:      .<!!!!UW$$$$"  $$$$$$$$#
-      $$$$$  $$$UX   :!!UW$$$$$$$$$   4$$$$$*
-      ^$$$B  $$$$\     $$$$$$$$$$$$   d$$R"
-        "*$bd$$$$      '*$$$$$$$$$$$o+#"
-             """"          """""""
-                Kalimullah001
+ (　　＋☆
+　　＼　　　　。
+　　　＼
+　　　 )
+　　　/
+。　 /  Kalimullah.
+　　/　　            Nazir♡
+　　 ♡
 \033[1;31m 
 \033[1;31m                                                                         
 \033[1;31m1) \033[1;37mUnited States                \033[1;31m31) \033[1;37mMexico                \033[1;31m61) \033[1;37mMoldova
